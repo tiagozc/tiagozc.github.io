@@ -42,6 +42,12 @@ plugins:
 github_username:  tiagozc
 show_excerpts: true
 
+locale: en_UK
+
+social:
+  links:
+    - https://www.linkedin.com/in/tiagozorteadeconto
+
 disqus:
   shortname: tiagozcdev
 
