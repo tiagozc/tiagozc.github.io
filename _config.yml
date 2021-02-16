@@ -45,8 +45,10 @@ show_excerpts: true
 locale: en_UK
 
 social:
+  name: Tiago Zortea De Conto
   links:
     - https://www.linkedin.com/in/tiagozorteadeconto
+    - https://github.com/tiagozc
 
 disqus:
   shortname: tiagozcdev
